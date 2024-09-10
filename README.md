@@ -8,4 +8,6 @@
 
 ## 🌐 Здесь найдёшь ссылочку на мои соц. сеткочки:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCjEaSpiPRLSseVrryb-dsjQ) 
+[![VK](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCjEaSpiPRLSseVrryb-dsjQ) 
+
 
