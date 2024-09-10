@@ -10,7 +10,4 @@
 
 
 ## 🌐 Ссылочки на мои соц. сеткочки:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]((https://www.youtube.com/channel/UCjEaSpiPRLSseVrryb-dsjQ)) 
-
-
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/MrMaxGaming) 
