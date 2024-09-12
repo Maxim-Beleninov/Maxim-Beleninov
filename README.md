@@ -4,7 +4,7 @@
   <a href="your-linkedin-URL">
     <img src="https://media1.tenor.com/m/lER2_kKTywYAAAAC/monkey-adult-swim.gif" alt="LinkedIn Badge"/>
 
-# 💫 About Me:
+# 💫 ЭБАУТ МИ:
 ✌️Привет-привет, я Макс!👋 <br> 🤟Добро пожаловать в мой уголок свободы!🤘 <br>Я начинающий PROGRAMMER👨‍💻,
 который готов учиться, учиться и ещё раз учиться.<br> Стоит сказать, что я также BLOGER📱 и VOICE ACTOR🎙! Переходи по ссылке, авось понравится! :)<br>
 
